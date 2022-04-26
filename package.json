@@ -2,9 +2,8 @@
   "name": "descrfy-api",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "ArturMiguel",
   "private": true,
-  "license": "UNLICENSED",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
